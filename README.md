@@ -61,6 +61,7 @@ O Layout da aplicação é simples devido a ser uma aplicação com pouco tempo 
 
   <img alt="Atech crud web mobile" title="#Atech crud web mobile" src="assets/Mobile-Registro.png" width="200px">
 </p>
+
 ### Desktop
 <p align="center">
   <img alt="Atech crud web Desktop" title="#Atech crud web Desktop" src="assets/Desktop-image-1.png" width="200px">

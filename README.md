@@ -115,10 +115,10 @@ $ npm install
 # Execute a aplicação em modo de desenvolvimento
 $ npm run dev
 
-# O servidor inciará na porta:5172 - acesse <http://localhost:5173>
+# O servidor inciará na porta:5173 - acesse <http://localhost:5173>
 ````
 
-
+Agora basta acessar no browser o endereço <http://localhost:5173> e você verá o sistema funcionando
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:

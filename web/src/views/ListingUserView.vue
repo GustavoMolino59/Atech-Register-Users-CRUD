@@ -39,7 +39,7 @@ const listVisualization = ref(false)
             <div class="container">
                 <div class="row">
                     <div class="col">
-                        <label for="search-input" class="form-label">Telefone</label>
+                        <label for="search-input" class="form-label"></label>
                         <input v-model="title"  type="text" class="form-control" id="search-input"
                             placeholder="Busque por Nome, email, telefone ou tags">
                     </div>

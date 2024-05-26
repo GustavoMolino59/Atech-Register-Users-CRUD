@@ -57,15 +57,15 @@ O Layout da aplicação é simples devido a ser uma aplicação com pouco tempo 
 
 ### Mobile
 <p align="center">
-  <img alt="Atech crud web mobile" title="#Atech crud web mobile" src="g" width="200px">
+  <img alt="Atech crud web mobile" title="#Atech crud web mobile" src="assets/Listing-Resposive.png" width="200px">
 
-  <img alt="Atech crud web mobile" title="#Atech crud web mobile" src="s" width="200px">
+  <img alt="Atech crud web mobile" title="#Atech crud web mobile" src="assets/Mobile-Registro.png" width="200px">
 </p>
 ### Desktop
 <p align="center">
-  <img alt="Atech crud web Desktop" title="#Atech crud web Desktop" src="g" width="200px">
+  <img alt="Atech crud web Desktop" title="#Atech crud web Desktop" src="assets/Desktop-image-1.png" width="200px">
 
-  <img alt="Atech crud web Desktop" title="#Atech crud web Desktop" src="s" width="200px">
+  <img alt="Atech crud web Desktop" title="#Atech crud web Desktop" src="assets/Cadastro-Desktop-2.png" width="200px">
 </p>
 
 
@@ -144,7 +144,7 @@ Com o servidor e front-end Funcionando, o sistema está pronto para ser usado. B
 
 ### Documentação API
 <p align="center">
-  <a href="Insomnia-requests.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+  <a href="assets/Insomnia-Atech" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 </p>
 
 ### Organização
